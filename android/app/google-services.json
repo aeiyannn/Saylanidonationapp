@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "477463690348",
+    "project_id": "saylani-donation-app",
+    "storage_bucket": "saylani-donation-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477463690348:android:f7fe88d44820c54dd0ac49",
+        "android_client_info": {
+          "package_name": "com.donation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477463690348-v0prl5f9cu5h3epstjmrnpug6vjh89q6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.donation",
+            "certificate_hash": "63ec86d6328c79291329bfb9e67b9ad15560077b"
+          }
+        },
+        {
+          "client_id": "477463690348-h6bud8ecc7ojnqu2re4i80fmddmf57l9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUYKgR4Som-v_yS7F7C-SuisBo5NkZAiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477463690348-h6bud8ecc7ojnqu2re4i80fmddmf57l9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
